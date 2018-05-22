@@ -31,5 +31,5 @@ aa1@amail.com
 </code></pre>
 
 ## Output
-![](./email.JPG)
+![](./run.JPG)
 
