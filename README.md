@@ -4,8 +4,11 @@ Check if an e-mail address is valid or not.
 
 
 Input: a set of strings
+
 Goal: recognize the strings which are valid email address
+
 sort them by (i) user name; and (ii) domain name+user-name.
+
 +upper and lower cases are regarded as the same.
 
 ## Input format:
